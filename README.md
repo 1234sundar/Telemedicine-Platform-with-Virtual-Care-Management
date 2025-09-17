@@ -35,4 +35,4 @@ Healthcare providers and patients face challenges like:
 
 ## 📄 Phase 1 Document
 The detailed Phase 1 submission is included in this repo:  
-👉 **[📂 Telemedicine_Project_Phase-1.docx](./Telemedicine_Project_Phase-1.docx)**  
+👉 **[📂 Telemedicine_Project_phase-1.docx](./Telemedicine_Project_phase-1.docx)**
