@@ -1,19 +1,38 @@
-# Salesforce DX Project: Next Steps
+# 🌍 Telemedicine Platform with Virtual Care Management – Phase 1
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## 📌 Project Idea
+A Salesforce-based telemedicine platform that allows patients to book appointments, consult doctors online, and track prescriptions and medical history.  
+This phase focuses on **understanding the problem, defining objectives, and planning the solution**.
 
-## How Do You Plan to Deploy Your Changes?
+---
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## 🎯 Problem Statement
+Healthcare providers and patients face challenges like:
+- Manual appointment booking causing double-bookings  
+- No centralized tracking of patient medical history  
+- Difficulty managing prescriptions digitally  
+- Limited access to virtual consultations  
+- Lack of real-time dashboards for doctors and patients  
 
-## Configure Your Salesforce DX Project
+---
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## 💡 Objectives
+- Understand user requirements (patients, doctors, admins)  
+- Identify pain points in appointment scheduling and patient care  
+- Define core functionalities needed for a telemedicine platform  
+- Prepare a **data model** for patients, doctors, appointments, and prescriptions  
+- Document problem statement, objectives, and social impact  
 
-## Read All About It
+---
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
-# Telemedicine-Platform-with-Virtual-Care-Management
+## 📌 Social Impact
+- Improves access to healthcare through virtual consultations  
+- Reduces manual errors in appointment management  
+- Helps doctors track patient history and prescriptions digitally  
+- Supports better decision-making with organized patient data  
+
+---
+
+## 📄 Phase 1 Document
+The detailed Phase 1 submission is included in this repo:  
+👉 **[📂 Telemedicine_Project_Phase-1.docx](./Telemedicine_Project_Phase-1.docx)**  
