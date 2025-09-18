@@ -37,6 +37,7 @@ Healthcare providers and patients face challenges like:
 The detailed Phase 1 submission is included in this repo:  
 👉 **[📂 Telemedicine_Project_phase-1.docx](./Telemedicine_Project_phase-1.docx)**
  
+ # 🌍 Telemedicine Platform with Virtual Care Management – Phase 2
  ⚙️ Phase 2 – Salesforce Org Setup & Configuration
 
 This phase focuses on setting up the Salesforce org environment, configuring core settings, and establishing the foundation for security, access, and deployment.
