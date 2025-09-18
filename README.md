@@ -76,4 +76,5 @@ Security & access policies enforced
 
 ## 📄 Phase 2 Document
 The detailed Phase 2 submission is included in this repo:  
-👉 **[📂 Phase2-Salesforce_Org_Setup_and_Configuration.docx](./Phase2-Salesforce_Org_Setup_and_Configuration.docx)**
+👉 **[📂 Phase 2 – Salesforce Org Setup & Configuration](./Phase2-Salesforce%20Org%20Setup%20&%20Configuration.docx)**
+
