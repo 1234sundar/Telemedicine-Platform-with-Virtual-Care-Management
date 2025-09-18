@@ -36,3 +36,43 @@ Healthcare providers and patients face challenges like:
 ## 📄 Phase 1 Document
 The detailed Phase 1 submission is included in this repo:  
 👉 **[📂 Telemedicine_Project_phase-1.docx](./Telemedicine_Project_phase-1.docx)**
+ 
+ ⚙️ Phase 2 – Salesforce Org Setup & Configuration
+
+This phase focuses on setting up the Salesforce org environment, configuring core settings, and establishing the foundation for security, access, and deployment.
+
+🔑 Key Activities
+
+Salesforce Editions & Company Profile Setup – Defined org details, company info, and platform edition.
+
+Business Hours & Holidays – Configured working hours and holidays to manage appointment scheduling.
+
+Fiscal Year Settings – Aligned Salesforce fiscal year with project requirements.
+
+User Setup & Licenses – Created patient, doctor, and admin user accounts with proper licenses.
+
+Profiles & Permission Sets – Controlled object/field-level access (Patients, Doctors, Admin).
+
+Roles & Hierarchy – Established role hierarchy (e.g., System Admin > Doctor > Patient).
+
+Organization-Wide Defaults (OWD) – Applied privacy rules (e.g., Prescriptions private to patients, shareable with doctors).
+
+Sharing Rules – Implemented rules to share prescriptions with doctors automatically.
+
+Login Access Policies – Configured security policies for safe login access.
+
+Developer Org & Sandbox Setup – Prepared development and testing environments.
+
+Deployment Basics – Laid the groundwork for pushing metadata using Change Sets / SFDX.
+
+📌 Deliverables
+
+Configured Org with Profiles, Roles, OWD, and Sharing Rules
+
+User hierarchy established (Patient, Doctor, Admin)
+
+Security & access policies enforced
+
+## 📄 Phase 2 Document
+The detailed Phase 2 submission is included in this repo:  
+👉 **[📂 Phase2-Salesforce_Org_Setup_and_Configuration.docx](./Phase2-Salesforce_Org_Setup_and_Configuration.docx)**
