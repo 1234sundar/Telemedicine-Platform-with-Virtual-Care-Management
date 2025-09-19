@@ -78,7 +78,7 @@ Security & access policies enforced
 The detailed Phase 2 submission is included in this repo:  
 👉 **[📂 Phase 2 – Salesforce Org Setup & Configuration](./Phase2-Salesforce%20Org%20Setup%20&%20Configuration.docx)**
 
-#  Telemedicine Platform with Virtual Care Management – Phase 1
+#  Telemedicine Platform with Virtual Care Management – Phase 3
 Phase 3 of the Telemedicine Platform project focuses on data modeling and relationships in Salesforce. This phase ensures that all objects, fields, record types, page layouts, and relationships are correctly set up to manage patients, doctors, appointments, and prescriptions efficiently.
 
 🎯 Key Objectives
