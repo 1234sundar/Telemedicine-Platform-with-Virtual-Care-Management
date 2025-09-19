@@ -1,4 +1,4 @@
-# 🌍 Telemedicine Platform with Virtual Care Management – Phase 1
+#  Telemedicine Platform with Virtual Care Management – Phase 1
 
 ## 📌 Project Idea
 A Salesforce-based telemedicine platform that allows patients to book appointments, consult doctors online, and track prescriptions and medical history.  
@@ -37,7 +37,7 @@ Healthcare providers and patients face challenges like:
 The detailed Phase 1 submission is included in this repo:  
 👉 **[📂 Telemedicine_Project_phase-1.docx](./Telemedicine_Project_phase-1.docx)**
  
- # 🌍 Telemedicine Platform with Virtual Care Management – Phase 2
+ #  Telemedicine Platform with Virtual Care Management – Phase 2
  ⚙️ Phase 2 – Salesforce Org Setup & Configuration
 
 This phase focuses on setting up the Salesforce org environment, configuring core settings, and establishing the foundation for security, access, and deployment.
@@ -78,7 +78,7 @@ Security & access policies enforced
 The detailed Phase 2 submission is included in this repo:  
 👉 **[📂 Phase 2 – Salesforce Org Setup & Configuration](./Phase2-Salesforce%20Org%20Setup%20&%20Configuration.docx)**
 
-# 🌍 Telemedicine Platform with Virtual Care Management – Phase 1
+#  Telemedicine Platform with Virtual Care Management – Phase 1
 Phase 3 of the Telemedicine Platform project focuses on data modeling and relationships in Salesforce. This phase ensures that all objects, fields, record types, page layouts, and relationships are correctly set up to manage patients, doctors, appointments, and prescriptions efficiently.
 
 🎯 Key Objectives
@@ -121,6 +121,3 @@ Patient & Doctor ↔ Prescription (Lookup)
 
 All Phase 3 metadata has been deployed to the Salesforce org using VS Code and Salesforce CLI. This includes objects, fields, record types, layouts, tabs, and relationships.
 
-## 📄 Phase 3 Document
-The detailed Phase 3 documentation is included in this repo:  
-👉 **[📂 Phase3-Salesforce_Org_Setup_%26_Configuration.docx](./Phase3-Salesforce%20Org%20Setup%20%26%20Configuration.docx)**
