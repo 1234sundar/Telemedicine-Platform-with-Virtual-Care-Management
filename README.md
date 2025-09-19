@@ -78,3 +78,49 @@ Security & access policies enforced
 The detailed Phase 2 submission is included in this repo:  
 👉 **[📂 Phase 2 – Salesforce Org Setup & Configuration](./Phase2-Salesforce%20Org%20Setup%20&%20Configuration.docx)**
 
+# 🌍 Telemedicine Platform with Virtual Care Management – Phase 1
+Phase 3 of the Telemedicine Platform project focuses on data modeling and relationships in Salesforce. This phase ensures that all objects, fields, record types, page layouts, and relationships are correctly set up to manage patients, doctors, appointments, and prescriptions efficiently.
+
+🎯 Key Objectives
+
+Create custom objects to store project-specific data.
+
+Define fields for each object, including lookups and master-detail relationships.
+
+Set up record types to categorize records for different use cases.
+
+Design page layouts and compact layouts to make data entry and viewing simple and intuitive.
+
+Establish relationships between objects (lookup, master-detail, hierarchical) to model real-world connections between patients, doctors, appointments, and prescriptions.
+
+Ensure that the app structure is ready for automation, reporting, and user access.
+
+💡 Phase 3 Highlights
+
+Custom Objects Created: Patient, Doctor, TeleAppointment, Prescription
+
+Fields Defined: Includes text, picklist, date, number, lookup, master-detail
+
+Record Types: Separate record types for appointments and prescriptions to manage workflows and display layouts
+
+Page Layouts: Customized layouts for each object to ensure users see only relevant fields
+
+Compact Layouts: Highlighted key information for quick access in lists and record previews
+
+Relationships:
+
+Patient ↔ TeleAppointment (Lookup)
+
+Doctor ↔ TeleAppointment (Lookup)
+
+TeleAppointment ↔ Prescription (Master-Detail)
+
+Patient & Doctor ↔ Prescription (Lookup)
+
+📌 Deployment to Salesforce
+
+All Phase 3 metadata has been deployed to the Salesforce org using VS Code and Salesforce CLI. This includes objects, fields, record types, layouts, tabs, and relationships.
+
+## 📄 Phase 3 Document
+The detailed Phase 3 documentation is included in this repo:  
+👉 **[📂 Phase3-Salesforce_Org_Setup_%26_Configuration.docx](./Phase3-Salesforce%20Org%20Setup%20%26%20Configuration.docx)**
