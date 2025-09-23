@@ -121,3 +121,44 @@ Patient & Doctor ↔ Prescription (Lookup)
 
 All Phase 3 metadata has been deployed to the Salesforce org using VS Code and Salesforce CLI. This includes objects, fields, record types, layouts, tabs, and relationships.
 
+#  Telemedicine Platform with Virtual Care Management – Phase 4
+ ⚙️ Phase 4– focuses on implementing validation rules to maintain data integrity and enforce business logic within the Salesforce org.
+
+Key Activities
+Define validation rules to prevent incorrect or incomplete data entry.
+
+Tailor rules to enforce telemedicine-specific constraints, e.g., appointment times, prescription fields.
+
+Increase accuracy of data capturing patient and doctor interactions.
+
+Improve user experience by providing clear error messages on validation failures.
+
+Deliverables
+A set of robust validation rules applied across major custom objects.
+
+Improved data quality and consistency throughout the platform.
+
+📄 Phase 4 Document  
+[Phase4-Validation rules.docx](https://github.com/1234sundar/Telemedicine-Platform-with-Virtual-Care-Management/blob/main/Phase4-Validation%20rules.docx)
+
+
+#  Telemedicine Platform with Virtual Care Management – Phase 4
+ ⚙️phase 5 involves Apex coding for custom automation and business process logic enhancement.
+
+Key Highlights
+Develop Apex classes and triggers to automate complex workflows beyond declarative tools.
+
+Enable automatic updates, notifications, and data processing tied to appointments and prescriptions.
+
+Integrate error handling and logging for maintainability.
+
+Ensure Apex code adheres to best practices and test coverage standards.
+
+Deliverables
+Apex triggers and classes deployed to the Salesforce org.
+
+Enhanced automation improving platform responsiveness and user productivity.
+
+
+📄 Phase 5 Document  
+[phase5-Apex coding.docx](https://github.com/1234sundar/Telemedicine-Platform-with-Virtual-Care-Management/blob/main/phase5-Apex%20coding.docx)
