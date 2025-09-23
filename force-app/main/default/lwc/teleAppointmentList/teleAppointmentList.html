@@ -1,0 +1,14 @@
+<template>
+    <lightning-card title="Tele Appointments">
+        <template if:true={appointments.data}>
+            <lightning-datatable
+                data={appointments.data}
+                columns={columns}
+                key-field="Id">
+            </lightning-datatable>
+        </template>
+        <template if:true={appointments.error}>
+            <p class="slds-text-color_error">{appointments.error}</p>
+        </template>
+    </lightning-card>
+</template>
