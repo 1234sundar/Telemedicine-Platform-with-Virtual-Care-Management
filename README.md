@@ -121,6 +121,9 @@ Patient & Doctor ↔ Prescription (Lookup)
 
 All Phase 3 metadata has been deployed to the Salesforce org using VS Code and Salesforce CLI. This includes objects, fields, record types, layouts, tabs, and relationships.
 
+📄 Phase 3 Document  
+[Telemedicine_Project_Phase-3_Data_Modeling_and_Relationships.docx](https://github.com/1234sundar/Telemedicine-Platform-with-Virtual-Care-Management/blob/main/Phase3-Salesforce%20Org%20Setup%20.docx)
+
 #  Telemedicine Platform with Virtual Care Management – Phase 4
  ⚙️ Phase 4– focuses on implementing validation rules to maintain data integrity and enforce business logic within the Salesforce org.
 
