@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="Prescriptions">
+        <template if:true={prescriptions}>
+            <template for:each={prescriptions} for:item="presc">
+                <p key={presc.Id}>{presc.Name}</p>
+            </template>
+        </template>
+        <template if:false={prescriptions}>
+            <p>No prescriptions found</p>
+        </template>
+    </lightning-card>
+</template>

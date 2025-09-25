@@ -1,0 +1,15 @@
+<template>
+    <lightning-card title="Today's Schedule">
+        <template if:true={appointments}>
+            <template for:each={appointments} for:item="appt">
+                <div key={appt.Id} class="slds-box slds-m-bottom_small">
+                    <p>{appt.Appointment_Date__c}</p>
+                    <p><a href="javascript:void(0);" onclick={handleNavigate} data-id={appt.Id}>View Appointment</a></p>
+                </div>
+            </template>
+        </template>
+        <template if:false={appointments}>
+            <p>No appointments today.</p>
+        </template>
+    </lightning-card>
+</template>

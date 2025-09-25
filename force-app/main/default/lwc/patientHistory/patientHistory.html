@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="Medical History">
+        <template if:true={historyRecords}>
+            <template for:each={historyRecords} for:item="record">
+                <p key={record.Id}>{record.Description__c}</p>
+            </template>
+        </template>
+        <template if:false={historyRecords}>
+            <p>No history available</p>
+        </template>
+    </lightning-card>
+</template>

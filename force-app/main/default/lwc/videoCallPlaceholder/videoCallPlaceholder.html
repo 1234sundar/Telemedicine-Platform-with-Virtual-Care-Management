@@ -1,0 +1,11 @@
+<template>
+    <lightning-card title="Video Call" icon-name="action:video_call">
+        <template if:true={meetUrl}>
+            <p>Click the button below to join the Google Meet video call:</p>
+            <lightning-button label="Join Video Call" onclick={openMeetUrl} variant="brand"></lightning-button>
+        </template>
+        <template if:false={meetUrl}>
+            <p>No video call link available for this appointment.</p>
+        </template>
+    </lightning-card>
+</template>
