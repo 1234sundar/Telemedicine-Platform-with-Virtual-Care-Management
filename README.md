@@ -1,4 +1,11 @@
-#  Telemedicine Platform with Virtual Care Management – Phase 1
+#  Telemedicine Platform with Virtual Care Management google doc link is here
+## Project Documentation
+
+You can find the full project documentation here:  
+[Google Doc Link](https://docs.google.com/document/d/13KKiX6THLWWxbN9wRBHfKTMXA39RW2z9-PXy4I5ioC8/edit?usp=sharing)
+
+
+
 
 ## 📌 Project Idea
 A Salesforce-based telemedicine platform that allows patients to book appointments, consult doctors online, and track prescriptions and medical history.  
